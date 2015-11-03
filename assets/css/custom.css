@@ -1,0 +1,5 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+#profile-photo {
+  border-radius: 100%;
+  max-width: 200px;
+}
