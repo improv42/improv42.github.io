@@ -3,3 +3,17 @@
   border-radius: 100%;
   max-width: 200px;
 }
+
+a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+a h5 {
+  color: #fff;
+}
+
+.full-stack {
+  width: 15%;
+  display: inline;
+}
