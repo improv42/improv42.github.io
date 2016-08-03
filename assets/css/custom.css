@@ -23,3 +23,54 @@ a h5 {
 .nowrap {
   white-space: nowrap ;
 }
+
+#resume {
+  background-color: #3C3C3C;
+  color: #A0A0A0;
+  font-family: 'Rasa', serif;
+}
+
+#resume h2, h3, h4 {
+  font-family: 'Rasa', serif;
+  color: #D2D2D2;
+}
+
+#resume ul {
+  list-style: none;
+}
+
+.summary ul {
+  display: block;
+  margin-left: 1em;
+}
+
+.experience h4 {
+  display: block;
+  margin-left: 1em;
+}
+
+.experience p {
+  display: block;
+  margin-left: 3em;
+  font-size: 1.1em;
+}
+
+.experience ul {
+  display: block;
+  margin-left: 4em;
+}
+
+.education h4 {
+  display: block;
+  margin-left: 1em;
+}
+
+.education p {
+  display: block;
+  margin-left: 3em;
+}
+
+.education ul {
+  display: block;
+  margin-left: 4em;
+}
