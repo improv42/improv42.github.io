@@ -74,3 +74,13 @@ a h5 {
   display: block;
   margin-left: 4em;
 }
+
+.client-logo-area {
+  background-color: #FFF;
+}
+
+.client-logo {
+  display: inline-block;
+  width: 35%;
+  padding: 3% 2%;
+}
